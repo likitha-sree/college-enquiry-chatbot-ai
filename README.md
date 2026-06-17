@@ -51,6 +51,3 @@ The system reduces the need for manual enquiry and improves student experience b
 - Academic Calendar
 - Contact Information
 
----
-
-## 🏗️ System Architecture
